@@ -80,3 +80,6 @@ Visually estimate the result by plotting the daily minimum temperature.
 Export the DataFrame to a CSV file.
 
 Resources:
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+
