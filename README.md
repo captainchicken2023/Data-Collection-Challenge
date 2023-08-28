@@ -82,5 +82,6 @@ Export the DataFrame to a CSV file.
 Resources:
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 https://saturncloud.io/blog/how-to-scrape-an-html-table-with-beautiful-soup-into-pandas/
+https://www.geeksforgeeks.org/change-data-type-for-one-or-more-columns-in-pandas-dataframe/#
 AskBCS
 
