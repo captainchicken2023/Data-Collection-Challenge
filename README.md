@@ -83,5 +83,6 @@ Resources:
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 https://saturncloud.io/blog/how-to-scrape-an-html-table-with-beautiful-soup-into-pandas/
 https://www.geeksforgeeks.org/change-data-type-for-one-or-more-columns-in-pandas-dataframe/#
+https://saturncloud.io/blog/how-to-sort-the-order-of-bars-in-pandasmatplotlib-bar-plots/
 AskBCS
 
